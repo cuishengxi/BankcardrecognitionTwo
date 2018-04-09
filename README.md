@@ -7,5 +7,7 @@ Bank card recognition
 ----------------------
 
 > This is a card type in the code automatically identify the demo.Please a lot of star
+
 > Mainly is to use libXLYBankCardMessage.a
+
 > Thanks everybody!
